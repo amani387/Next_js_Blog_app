@@ -12,7 +12,7 @@ function ProjectTitle() {
           router.push("/");
         }}
       >
-        SheyBlogs - NEXT
+        Aman-Blogs NextJs
       </h1>
     </div>
   );
